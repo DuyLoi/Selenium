@@ -1,0 +1,15 @@
+http://tester-ict.blogspot.com/2018/08/lenh-selenium-webdriver-hang-au-ma-moi.html
+
+https://www.freeformatter.com/xpath-tester.html
+\
+https://www.google.com/search?client=firefox-b-d&q=.+Chu%E1%BA%A9n+h%C3%B3a+Css+v%C3%A0+Xpath+trong+selenium
+
+
+https://www.guru99.com/handling-iframes-selenium.html
+
+https://www.google.com/search?client=firefox-b-d&q=select+frame+in+selenium
+
+
+https://artoftesting.com/automationTesting/press-enter-tab-space-arrow-function-keys-in-selenium-webdriver-with-java.html
+
+https://seleniumatfingertips.wordpress.com/2016/07/05/handling-frames-in-selenium-webdriver-with-java/
