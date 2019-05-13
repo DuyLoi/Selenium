@@ -13,3 +13,6 @@ https://www.google.com/search?client=firefox-b-d&q=select+frame+in+selenium
 https://artoftesting.com/automationTesting/press-enter-tab-space-arrow-function-keys-in-selenium-webdriver-with-java.html
 
 https://seleniumatfingertips.wordpress.com/2016/07/05/handling-frames-in-selenium-webdriver-with-java/
+
+
+Selenium - after page change cannot find element even it is visible
