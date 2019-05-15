@@ -1,0 +1,17 @@
+[
+	{
+		"login":{
+			"url": "https://app.accelus.com/",
+			"user": "Nganhangtienphong2",
+			"password": "Tpbank57@",
+		}
+	},
+	{
+		"hello" :{
+			"hi": "xin chao",
+			"chao": "chaoban"
+		}
+	},
+	
+		
+]
